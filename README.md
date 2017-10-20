@@ -31,5 +31,3 @@ at0222
 ## License
 
 This software is licensed under the MIT License.
-# hacker_news_catcher
-# hacker_news_catcher
