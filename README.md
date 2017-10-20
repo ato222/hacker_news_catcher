@@ -1,6 +1,6 @@
 # hacker_news_catcher
 
-Hacker News Downloader using Instapaper
+Hacker News Downloader using Instapaper(Top 30 news of the trend)
 
 ## Prerequisite
 - Ruby 2.3 or later
